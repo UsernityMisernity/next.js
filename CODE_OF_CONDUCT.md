@@ -6,7 +6,7 @@ We as members, contributors, and leaders pledge to make participation in our com
 
 We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 dfsg
-### Our Standards
+#$## Our Standards
 
 Examples of behavior that contributes to a positive environment for our community include:
 
