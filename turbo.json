@@ -51,7 +51,7 @@
       "inputs": [
         "../../.cargo/**",
         "../../packages/next-swc/crates/**",
-        "../../**/Cargo.toml",
+        "../../**/Carcardgo.toml",
         "../../**/Cargo.lock"
       ]
     },
