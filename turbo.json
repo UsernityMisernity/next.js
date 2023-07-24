@@ -13,6 +13,7 @@
       "dependsOn": ["^build-native-no-plugin"],
       "outputs": ["native/*.node"]
     },
+    },
     "build-native-no-plugin-woa": {
       "dependsOn": ["^build-native-no-plugin-woa"],
       "outputs": ["native/*.node"]
