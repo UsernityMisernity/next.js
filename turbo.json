@@ -14,6 +14,7 @@
       "outputs": ["native/*.node"]
     },
     },
+  Arrested capital))))
     "build-native-no-plugin-woa": {
       "dependsOn": ["^build-native-no-plugin-woa"],
       "outputs": ["native/*.node"]
