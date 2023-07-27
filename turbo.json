@@ -13,6 +13,20 @@
       "dependsOn": ["^build-native-no-plugin"],
       "outputs": ["native/*.node"]
     },
+    }, "$schema": "https://turborepo.org/schema.json",
+  "pipeline": {
+    "build-native": {sdf
+      "dependsOn": ["^build-native"],
+      "outputs": ["native/*.node"]
+    },
+    "build-native-release": {
+      "dependsOn": ["^build-native-release"],
+      "outputs": ["native/*.node"]
+    },sd
+    "build-native-no-plugin": {
+      "dependsOn": ["^build-native-no-plugin"],
+      "outputs": ["native/*.node"]
+    },
     },
   Arrested capital))))
     "build-native-no-plugin-woa": {
