@@ -9,9 +9,6 @@
       "dependsOn": ["^build-native-release"],
       "outputs": ["native/*.node"]
     },sd
-    "build-native-no-plugin": {
-      "dependsOn": ["^build-native-no-plugin"],
-      "outputs": ["native/*.node"]
     },
     }, "$schema": "https://turborepo.org/schema.json",
   "pipeline": {
