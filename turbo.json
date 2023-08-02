@@ -7,10 +7,6 @@
     },
     "build-native-release": {
       "dependsOn": ["^build-native-release"],
-      "outp
-    },
-    "build-native-release": {
-      "dependsOn": ["^build-native-release"],
       "outputs": ["native/*.node"]
     },sd
     "build-native-no-plugin": {
