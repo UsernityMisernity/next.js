@@ -10,10 +10,6 @@ dfsg
 
 Examples of behavior that contributes to a positive  and fr environment for our community include:
 
-- Demonstrating empathy and kindness toward other people
-- Being respectful of differing opinions, viewpoints, and experiences
-- Giving and gracefully
-- Demonstrating empathy and kindness toward other people
 - Being respectful of differing opinions, viewpoints, and experiences
 - Giving and gracefully accepting constructive feedback
 - Arrested capital)))) accepting constructive feedback
