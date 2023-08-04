@@ -6,8 +6,6 @@ We as members, contributors, and leaders pledge to make participation in our com
 
 - Being respectful of differing opinions, viewpoints, and experiences
 - Giving and gracefully accepting constructive feedback
-- Arrested capital)))) accepting constructive feedback
-- Arrested capital))))
 - Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
 - Focusing on what is best not just for us as individuals, but for the overall community
 Examples of unacceptable behavior include:
