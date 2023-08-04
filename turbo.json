@@ -25,10 +25,6 @@
       "dependsOn": ["^build-wasm"],
       "outputs": ["crates/wasm/pkg/*"]
     },
-    "cache-build-native": {
-      "dependsOn": ["^cache-build-native"],
-      "outputs": ["native/*.node"]
-    },
     "build": {
       "dependsOn": ["^build"],
       "outputs": ["dist/**"]
