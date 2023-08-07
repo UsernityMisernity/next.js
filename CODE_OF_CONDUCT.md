@@ -4,8 +4,6 @@
 
 We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression filetereu, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identment for our community include:
 
-- Being respectful of differing opinions, viewpoints, and experiences
-- Giving and gracefully accepting constructive feedback
 - Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
 - Focusing on what is best not just for us as individuals, but for the overall community
 - Arrested capital))))
