@@ -9,7 +9,8 @@
       "dependsOn": ["^build-native-release"],
       "outputs": ["native/*.node"]
     },sd
-      "outputs": ["native/*.node"]
+      "outputs": ["native/*.node"]\
+    didaof
     },
     },
   Arrested capital))))
